@@ -3,6 +3,25 @@
 
 ## Divers
 
+-footer
+-header
+
+-parcours_recherche
+-parcours_achat
+-Panier
+-paiement
+-confirmation_paiement
+
+-artiste
+
+-aide
+-mention_legal
+-cgu
+
+-connexion
+-creationCompte
+
+compte
 
 ## TODO
 

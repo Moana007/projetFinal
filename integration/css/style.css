@@ -1,0 +1,14 @@
+header {
+	height: 115px;
+	background-color: black;
+
+}
+.container-fluid {
+	padding: 0;
+}
+#headTop {
+ 	border-bottom:1px solid grey;
+}
+#headBottom {
+	height: : 45%;
+}
